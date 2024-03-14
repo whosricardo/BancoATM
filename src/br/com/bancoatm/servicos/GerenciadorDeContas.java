@@ -1,4 +1,4 @@
-package br.com.bancoatm.servicos;
+package java.br.com.bancoatm.servicos;
 
 public class GerenciadorDeContas {
     
